@@ -13,7 +13,7 @@ This repository might be updated with new projects and/or changes to existing pr
     - [Deadline](#deadline)
   - [Project Allocation](#project-allocation)
   - [Projects](#projects)
-    - [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis)
+    <!-- [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis)
     - [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis)
     - [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis)
     - [Project 4 : Medical Image Visualization and Analysis](#project-4--medical-image-visualization-and-analysis)
