@@ -1,6 +1,6 @@
 # Final-Projects-for-MM62201
  Repository for final project allocation and submission for MM62201 : Introduction to Programming offered in Autumn 2025 at IIT Kharagpur taught by [Prof Subhamoy Mandal](https://sites.google.com/site/smandalbiomed/home).
- > This repository might be updated with new projects and/or changes to existing projects. Please check back regularly.
+-This repository might be updated with new projects and/or changes to existing projects. Please check back regularly.
 
 > Final projects are approved by [Prof Subhamoy Mandal](https://sites.google.com/site/smandalbiomed/home).
 - [Final Projects for MM62201 : Introduction to Programming](#final-projects-for-MM62201--Introduction-to-programming)
