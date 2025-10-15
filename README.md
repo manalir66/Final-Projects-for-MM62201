@@ -88,7 +88,7 @@ This repository might be updated with new projects and/or changes to existing pr
 ### Deadline
 <!--The deadline for the final project submission is 27th November 2024, 23:59 IST**. -->
 
-## Project Allocation
+<!-- ## Project Allocation
 |     Students                            | Project                |  Mentor TA    |
 |:---------------------------:|:-----------------------------:|:------------------:|
 |  | [Project 4 : Medical Image Visualization and Analysis](#project-4--medical-image-visualization-and-analysis) |  |
@@ -104,7 +104,7 @@ This repository might be updated with new projects and/or changes to existing pr
 |  | [Project 9 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-9--mushroom-edibility-classification-using-data-analysis-and-visualization) |  |
 |  | [Project 10 : Diabetes Type Classification](#project-10--diabetes-type-classification) |  |
 |  | [Project 11: Predicting Maternal Health Risk](#project-11--predicting-maternal-health-risk) |  |
-|  | [Project 12: DYNAMICS OF REDUCED INDEPENDENCE POLYNOMIALS](#project-12--DYNAMICS-OF-REDUCED-INDEPENDENCE-POLYNOMIALS) |  |
+|  | [Project 12: DYNAMICS OF REDUCED INDEPENDENCE POLYNOMIALS](#project-12--DYNAMICS-OF-REDUCED-INDEPENDENCE-POLYNOMIALS) |  | -->
 
 
 <!--## Projects
