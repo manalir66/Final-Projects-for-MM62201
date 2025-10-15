@@ -27,3 +27,33 @@ This repository might be updated with new projects and/or changes to existing pr
     - [Project 12: DYNAMICS OF REDUCED INDEPENDENCE POLYNOMIALS](#project-12--DYNAMICS-OF-REDUCED-INDEPENDENCE-POLYNOMIALS)
   - [Resources](#resources)
   - [All the best!](#all-the-best)
+
+## Instructions
+
+### General Instructions
+1. The project is to be done in groups of 2 students. The students are expected to work together collaboratively.
+2. The choice of programming language is Python.
+3. Each group will be assigned a mentor TA who will be responsible for guiding the group throughout the project.
+4. Meetings with the mentor TA will be scheduled at the beginning of the project and at regular intervals.
+5. Each student will be evaluated based on the contribution towards the project. Make sure you are contributing equally to the project.
+6. Code plagiarism will not be tolerated. Any submission found to be plagiarized will be awarded a zero grade.
+7. Late submissions will not be accepted.
+
+### Evaluation Policy
+1. The final project evaluation is based on the following criteria:
+   1. `Continuous Evaluation (CE) : 40%`
+   2. `Code Quality and Documentation : 20%`
+   3. `Final Submission and Report : 40%`
+2. `Continuous Evaluation (CE)` : 40%
+   - The CE will be based on the following criteria:
+      1. Your participation in the weekly meetings with your mentor TA.
+      2. Your weekly progress and updates on the project.
+3. `Code Quality and Documentation` : 20%
+   - This will be based on the following criteria:
+      1. Code Quality : 10% (based on the code quality and readability)
+      2. Documentation : 10% (based on the documentation of the code and the project)
+4. `Final Submission and Report` : 40%
+   - This will be based on the following criteria:
+      1. Final Submission : 20% (based on the final submission of the project)
+      2. Final Report : 20% (based on the final report of the project)
+5. CE will be evaluated if you have attended `at least 75%` of the weekly meetings with your mentor TA.
