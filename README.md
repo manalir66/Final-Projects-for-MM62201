@@ -32,12 +32,12 @@ This repository might be updated with new projects and/or changes to existing pr
 
   ### General Instructions
   1. The project is to be done in groups of 2 students. The students are expected to work together collaboratively.
-2. The choice of programming language is Python.
-3. Each group will be assigned a mentor TA who will be responsible for guiding the group throughout the project.
-4. Meetings with the mentor TA will be scheduled at the beginning of the project and at regular intervals.
-5. Each student will be evaluated based on the contribution towards the project. Make sure you are contributing equally to the project.
-6. Code plagiarism will not be tolerated. Any submission found to be plagiarized will be awarded a zero grade.
-7. Late submissions will not be accepted.
+  2. The choice of programming language is Python.
+  3. Each group will be assigned a mentor TA who will be responsible for guiding the group throughout the project.
+  4. Meetings with the mentor TA will be scheduled at the beginning of the project and at regular intervals.
+  5. Each student will be evaluated based on the contribution towards the project. Make sure you are contributing equally to the project.
+  6. Code plagiarism will not be tolerated. Any submission found to be plagiarized will be awarded a zero grade.
+  7. Late submissions will not be accepted.
 
 ### Evaluation Policy
 1. The final project evaluation is based on the following criteria:
@@ -59,10 +59,10 @@ This repository might be updated with new projects and/or changes to existing pr
 5. CE will be evaluated if you have attended `at least 75%` of the weekly meetings with your mentor TA.
 
 ### Instructions to get started with the project
-1. `Fork` this `github.com/SanchitaMondal/MM62201_final_projects` repository.
+1. `Fork` this `github.com/manalir66/Final-Projects-for-MM62201` repository.
 2. `Clone` the forked repository to your local machine using the following command:
    ```bash
-   git clone github.com/{your_username}/MM62201_final_projects
+   git clone github.com/{your_username}/Final-Projects-for-MM62201
    ```
 3. Your projects are in the `submissions` directory. You can find the project description in the README.md file of the respective project directory.
 4. Work on the project and make `regular commits` to your local repository and `push` them to your forked repository.
@@ -72,7 +72,7 @@ This repository might be updated with new projects and/or changes to existing pr
 1. You have to submit the following:
    1. `Final Code` : The final code of your project in the respective project directory.
       1. Code should be highly readable and well documented.
-      2. Try to write efficient code and avoid unnecessary code.
+      2. Try to write efficient and clean code and avoid unnecessary code.
    2. `Final Report` : The final report of your project in the respective project directory. The report should be in the form of a `markdown` file with the name `report.md`. The report should contain the following:
       1. `Introduction` : A brief introduction of the project.
       2. `Data` : A brief description of the data used in the project.
@@ -83,31 +83,31 @@ This repository might be updated with new projects and/or changes to existing pr
 1. Submission of the final project will be done via `GitHub Pull Requests`.
 2. Once you are done with the project, you can create a `Pull Request` to the `main` branch of the `github.com/SanchitaMondal/MM62201_final_projects` repository.
 3. We will review your merge request and provide feedback. You can make changes to your code and update the merge request. If accepted, your project will be merged to the `main` branch of the `github.com/SanchitaMondal/MM62201_final_projects` repository.
-4. That's it! `Congratulations!!` have successfully submitted your final project.
+4. That's it! `Congratulations!!` You have successfully submitted your final project.
 
 ### Deadline
-The deadline for the final project submission is 27th November 2024, 23:59 IST**.
+<!--The deadline for the final project submission is 27th November 2024, 23:59 IST**. -->
 
 ## Project Allocation
 |     Students                            | Project                |  Mentor TA    |
 |:---------------------------:|:-----------------------------:|:------------------:|
-|  | [Project 4 : Medical Image Visualization and Analysis](#project-4--medical-image-visualization-and-analysis) | Anusuiya |
-|  | [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis) | Anusuiya |
-|  | [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis) | Anusuiya |
-|  | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | Anusuiya |
-| 24MM60005, 24MM60009, 24MM60008, 24MM6013 | [Project 5 : Patient Health Statistical Analysis](#project-5--patient-health-statistical-analysis) | Sanchita |
-| 24AG62R10, 24AG62R16, 24AG62R15 | [Project 6 : Impact of Soil Quality on Crop Growth Analysis](#project-6--impact-of-soil-quality-on-crop-growth-analysis) | Sanchita |
-| 24AG66R12, 24AG66R13, 24AG66R07 | [Project 6.1 : Impact of Soil Quality on Crop Growth Analysis and Model Building](#project-6--impact-of-soil-quality-on-crop-growth-analysis-and-model-building) | SELF |
-| 24AG66R08, 24AG66R06 | [Project 6.2 : Impact of Soil Quality on Crop Growth Analysis and Building of An Application](#project-6--impact-of-soil-quality-on-crop-growth-analysis-and-building-of-an-application) | SELF |
-| 24AG62R19, 24AG62R11, 24AG62R14 | [Project 7 : Plant Disease Analysis Using Leaf Image Data](#project-7--plant-disease-analysis-using-leaf-image-data) | Sanchita |
-|  | [Project 8 : PCOS Data Analysis and Visualization](#project-8--PCOS-data-analysis-and-visualization) | Sanchita |
-| 24AG62R05, 24AG62R17 | [Project 9 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-9--mushroom-edibility-classification-using-data-analysis-and-visualization) | Sanchita |
-| 24MM60002, 24MM60011, 24MM60003 | [Project 10 : Diabetes Type Classification](#project-10--diabetes-type-classification) | Anusuiya |
-| 24MM60015, 24MM60010, 24MM60007 | [Project 11: Predicting Maternal Health Risk](#project-11--predicting-maternal-health-risk) | Anusuiya |
-| 24MM91R12, 24MM60012, 24MM60006| [Project 12: DYNAMICS OF REDUCED INDEPENDENCE POLYNOMIALS](#project-12--DYNAMICS-OF-REDUCED-INDEPENDENCE-POLYNOMIALS) | SELF |
+|  | [Project 4 : Medical Image Visualization and Analysis](#project-4--medical-image-visualization-and-analysis) |  |
+|  | [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis) |  |
+|  | [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis) |  |
+|  | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) |  |
+|  | [Project 5 : Patient Health Statistical Analysis](#project-5--patient-health-statistical-analysis) |  |
+|  | [Project 6 : Impact of Soil Quality on Crop Growth Analysis](#project-6--impact-of-soil-quality-on-crop-growth-analysis) |  |
+|  | [Project 6.1 : Impact of Soil Quality on Crop Growth Analysis and Model Building](#project-6--impact-of-soil-quality-on-crop-growth-analysis-and-model-building) |  |
+|  | [Project 6.2 : Impact of Soil Quality on Crop Growth Analysis and Building of An Application](#project-6--impact-of-soil-quality-on-crop-growth-analysis-and-building-of-an-application) |  |
+|  | [Project 7 : Plant Disease Analysis Using Leaf Image Data](#project-7--plant-disease-analysis-using-leaf-image-data) |  |
+|  | [Project 8 : PCOS Data Analysis and Visualization](#project-8--PCOS-data-analysis-and-visualization) |  |
+|  | [Project 9 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-9--mushroom-edibility-classification-using-data-analysis-and-visualization) |  |
+|  | [Project 10 : Diabetes Type Classification](#project-10--diabetes-type-classification) |  |
+|  | [Project 11: Predicting Maternal Health Risk](#project-11--predicting-maternal-health-risk) |  |
+|  | [Project 12: DYNAMICS OF REDUCED INDEPENDENCE POLYNOMIALS](#project-12--DYNAMICS-OF-REDUCED-INDEPENDENCE-POLYNOMIALS) |  |
 
 
-## Projects
+<!--## Projects
 
 ### Project 1 : Medical Transcription Analysis
 
@@ -402,12 +402,12 @@ factors.
    - `Classification Task`: Predicting Maternal Health Risk Level: Learn classification algorithms such as logistic regression, decision trees, random forests, or support vector machines, and evaluate model performance.
    - Build a classification model to predict the risk level (low, medium, or high) based on the health features provided.
 7. Model Tuning and Optimization : Optimize the classification model by tuning hyperparameters and using techniques such as cross-validation.
-8. For report writing, compile the analysis, and results.
+8. For report writing, compile the analysis, and results.-->
 
 ---
 ## Resources
 1. [Python Documentation](https://docs.python.org/3/)
-2. [Class Code Materials](https://github.com/SanchitaMondal/Introduction-to-programming-MM62201/)
+2. [Class Code Materials]: Mailed after each lab class
 3. [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/9780262542364/introduction-to-computation-and-programming-using-python/)
 4. [Elements of Programming Interviews in Python]()
 5. Python Libraries
