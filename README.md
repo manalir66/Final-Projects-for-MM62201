@@ -27,11 +27,11 @@ This repository might be updated with new projects and/or changes to existing pr
     - [Project 12: DYNAMICS OF REDUCED INDEPENDENCE POLYNOMIALS](#project-12--DYNAMICS-OF-REDUCED-INDEPENDENCE-POLYNOMIALS)
   - [Resources](#resources)
   - [All the best!](#all-the-best)
+---
+  ## Instructions
 
-## Instructions
-
-### General Instructions
-1. The project is to be done in groups of 2 students. The students are expected to work together collaboratively.
+  ### General Instructions
+  1. The project is to be done in groups of 2 students. The students are expected to work together collaboratively.
 2. The choice of programming language is Python.
 3. Each group will be assigned a mentor TA who will be responsible for guiding the group throughout the project.
 4. Meetings with the mentor TA will be scheduled at the beginning of the project and at regular intervals.
