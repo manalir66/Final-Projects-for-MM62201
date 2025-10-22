@@ -352,12 +352,12 @@ factors.
         d. You can come up with your own questions and answer them using the data provided.
      
     - `Data Visualization:` Make sure you potray all your data analysis using some plots, pie charts, bar charts, heatmaps as per the suitability.
-    - 
-            1. Use histograms (age), Bar chart or Pie chart (sex distribution)
-            2. Visualize how many patients started vs. completed mindfulness sessions (e.g., stacked bar or pie chart).
-            3. Use paired line plots or boxplots to compare baseline vs. 12-week BDI-II scores.
-            4. Use Scatterplot (sessions completed vs. BDI change)
-            5. Use Line plot (BDI over time) or Paired Dot plot (12 vs. 24 weeks)
+  
+        1. Use histograms (age), Bar chart or Pie chart (sex distribution)
+        2. Visualize how many patients started vs. completed mindfulness sessions (e.g., stacked bar or pie chart).
+        3. Use paired line plots or boxplots to compare baseline vs. 12-week BDI-II scores.
+        4. Use Scatterplot (sessions completed vs. BDI change)
+        5. Use Line plot (BDI over time) or Paired Dot plot (12 vs. 24 weeks)
                
 6. The analysis part is open-ended. You can come up with your own analysis ideas and implement them.
 
