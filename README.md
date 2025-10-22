@@ -79,12 +79,12 @@ This repository might be updated with new projects and/or changes to existing pr
 
 ### Submission Instructions
 1. Submission of the final project will be done via `GitHub Pull Requests`.
-2. Once you are done with the project, you can create a `Pull Request` to the `main` branch of the `github.com/SanchitaMondal/MM62201_final_projects` repository.
-3. We will review your merge request and provide feedback. You can make changes to your code and update the merge request. If accepted, your project will be merged to the `main` branch of the `github.com/SanchitaMondal/MM62201_final_projects` repository.
+2. Once you are done with the project, you can create a `Pull Request` to the `main` branch of the `github.com/manalir66/Final-Projects-for-MM62201` repository.
+3. We will review your merge request and provide feedback. You can make changes to your code and update the merge request. If accepted, your project will be merged to the `main` branch of the `github.com/manalir66/Final-Projects-for-MM62201` repository.
 4. That's it! `Congratulations!!` You have successfully submitted your final project.
 
 ### Deadline
-<!--The deadline for the final project submission is 27th November 2024, 23:59 IST**. -->
+The deadline for the final project submission is 27th November 2025, 23:59 IST**.
 
 <!-- ## Project Allocation
 |     Students                            | Project                |  Mentor TA    |
@@ -345,13 +345,13 @@ factors.
         a. In this part, you need to prepare a set of questions and answer them using the data provided.
         b. Answer `at least 15 questions` using the data provided.
         c. A few examples questions to get you started are as follows:
-            - How do baseline BDI-II scores vary across disease groups (`condition_type`)?
-            - Are there noticeable differences in baseline depression levels between hospitals( `hospital_id`)?
-            - What is the average reduction in depression score for participants who completed all sessions versus those who did not?
-            - What is the `average cost of cultivation` of `rice` in the country?
-            - Are there differences in 12-week outcomes by sex, age group, or disease group?
-            - Which factors (demographic, clinical, or therapy-related) most strongly predict short-term depression improvement?
-            - What proportion of patients experience relapse or worsening after the 12-week period?
+            * How do baseline BDI-II scores vary across disease groups (`condition_type`)?
+            * Are there noticeable differences in baseline depression levels between hospitals( `hospital_id`)?
+            * What is the average reduction in depression score for participants who completed all sessions versus those who did not?
+            * What is the `average cost of cultivation` of `rice` in the country?
+            * Are there differences in 12-week outcomes by sex, age group, or disease group?
+            * Which factors (demographic, clinical, or therapy-related) most strongly predict short-term depression improvement?
+            * What proportion of patients experience relapse or worsening after the 12-week period?
         d. You can come up with your own questions and answer them using the data provided.
      
     - `Data Visualization` Make sure you potray all your data analysis using some plots, pie charts, bar charts, heatmaps as per the suitability.
