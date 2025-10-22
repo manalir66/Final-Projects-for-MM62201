@@ -351,8 +351,7 @@ factors.
             *  What proportion of patients experience relapse or worsening after the 12-week period?
         d. You can come up with your own questions and answer them using the data provided.
      
-    - `Data Visualization` Make sure you potray all your data analysis using some plots, pie charts, bar charts, heatmaps as per the suitability.
-      
+    - `Data Visualization` Make sure you potray all your data analysis using some plots, pie charts, bar charts, heatmaps as per the suitability
             1. Use histograms (age), Bar chart or Pie chart (sex distribution)
             2. Visualize how many patients started vs. completed mindfulness sessions (e.g., stacked bar or pie chart).
             3. Use paired line plots or boxplots to compare baseline vs. 12-week BDI-II scores.
