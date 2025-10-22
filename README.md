@@ -325,7 +325,7 @@ factors.
    - `Model Evaluation and Tuning`:- Fine-tune the models built (classification, regression, or time-series) and evaluate their performance on a test dataset.
 10. Compile the analysis, results, and insights into a structured report and prepare a presentation. -->
 
- ### Project 9: Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data
+ ### Project 9 : Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data
 
 1. Data Loading and Initial Exploration: Load the Excel file containing the mental health dataset and conduct an initial exploration to understand its structure and contents.
 2. The dataset is located in the `data/mental_health/` directory.
@@ -352,6 +352,7 @@ factors.
         d. You can come up with your own questions and answer them using the data provided.
      
     - `Data Visualization` Make sure you potray all your data analysis using some plots, pie charts, bar charts, heatmaps as per the suitability.
+      
             1. Use histograms (age), Bar chart or Pie chart (sex distribution)
             2. Visualize how many patients started vs. completed mindfulness sessions (e.g., stacked bar or pie chart).
             3. Use paired line plots or boxplots to compare baseline vs. 12-week BDI-II scores.
