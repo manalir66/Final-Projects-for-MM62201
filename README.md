@@ -325,7 +325,7 @@ factors.
    - `Model Evaluation and Tuning`:- Fine-tune the models built (classification, regression, or time-series) and evaluate their performance on a test dataset.
 10. Compile the analysis, results, and insights into a structured report and prepare a presentation. -->
 
- ### Project 9: Predicting Depression Risk and Recovery Using Demographic, Clinical, and Mindfulness Data
+ ### Project 9: Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data
 
 1. Data Loading and Initial Exploration: Load the Excel file containing the mental health dataset and conduct an initial exploration to understand its structure and contents.
 2. The dataset is located in the `data/mental_health/mental_health_dataset.csv` directory.
@@ -342,9 +342,9 @@ factors.
         - Visualize distributions using (e.g histograms, boxplots, correlation matrices). You may use the matplotlib packages.
      
     - `Data Analysis` is including visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features. You may find out basic statistical measures such as (mean, median, etc.) for each features. If any field contains multiple values. You need to split the values and transform it into a list of values.
-        1. In this part, you need to prepare a set of questions and answer them using the data provided.
-        2. Answer `at least 15 questions` using the data provided.
-        3. A few examples questions to get you started are as follows:
+        a. In this part, you need to prepare a set of questions and answer them using the data provided.
+        b. Answer `at least 15 questions` using the data provided.
+        c. A few examples questions to get you started are as follows:
             - How do baseline BDI-II scores vary across disease groups (`condition_type`)?
             - Are there noticeable differences in baseline depression levels between hospitals( `hospital_id`)?
             - What is the average reduction in depression score for participants who completed all sessions versus those who did not?
@@ -352,16 +352,15 @@ factors.
             - Are there differences in 12-week outcomes by sex, age group, or disease group?
             - Which factors (demographic, clinical, or therapy-related) most strongly predict short-term depression improvement?
             - What proportion of patients experience relapse or worsening after the 12-week period?
-        4. You can come up with your own questions and answer them using the data provided.
+        d. You can come up with your own questions and answer them using the data provided.
      
     - `Data Visualization` Make sure you potray all your data analysis using some plots, pie charts, bar charts, heatmaps as per the suitability.
-            - Use histograms (age), Bar chart or Pie chart (sex distribution)
-            - Visualize how many patients started vs. completed mindfulness sessions (e.g., stacked bar or pie chart).
-            - Use paired line plots or boxplots to compare baseline vs. 12-week BDI-II scores.
-            - Use Scatterplot (sessions completed vs. BDI change)
-            - Use Line plot (BDI over time) or Paired Dot plot (12 vs. 24 weeks)
-         
-      
+            a. Use histograms (age), Bar chart or Pie chart (sex distribution)
+            b. Visualize how many patients started vs. completed mindfulness sessions (e.g., stacked bar or pie chart).
+            c. Use paired line plots or boxplots to compare baseline vs. 12-week BDI-II scores.
+            d. Use Scatterplot (sessions completed vs. BDI change)
+            e. Use Line plot (BDI over time) or Paired Dot plot (12 vs. 24 weeks)
+               
 7. The analysis part is open-ended. You can come up with your own analysis ideas and implement them.
 
 
