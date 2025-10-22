@@ -330,16 +330,16 @@ factors.
 1. Data Loading and Initial Exploration: Load the Excel file containing the mental health dataset and conduct an initial exploration to understand its structure and contents.
 2. The dataset is located in the `data/mental_health/mental_health_dataset.csv` directory.
 3. The dataset includes following  features such as:-
-   `Demographics:` age, sex
-   `Clinical Factors:` condition (specific disease), condition type (disease group), baseline BDI-II depression score, identifier of the hospital.
-   `Mindfulness Therapy:` number of sessions started, number of sessions completed
-   `Health Outcomes:` BDI-II depression score at 12 weeks, BDI-II depression score at 24 weeks
+   - `Demographics:` age, sex
+   - `Clinical Factors:` condition (specific disease), condition type (disease group), baseline BDI-II depression score, identifier of the hospital.
+   - `Mindfulness Therapy:` number of sessions started, number of sessions completed
+   - `Health Outcomes:` BDI-II depression score at 12 weeks, BDI-II depression score at 24 weeks
    
-5. Understand the dataset structure, data types, and basic statistics for each features and give a brief summary report with initial findings on data types.
-6.  The project is divided into following parts:-
+4. Understand the dataset structure, data types, and basic statistics for each features and give a brief summary report with initial findings on data types.
+5.  The project is divided into following parts:-
     - `Data Preprocessing and Cleaning`:
-        - Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable techniques for data cleaning.
-        - Visualize distributions using (e.g histograms, boxplots, correlation matrices). You may use the matplotlib packages.
+      - Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable techniques for data cleaning.
+      - Visualize distributions using (e.g histograms, boxplots, correlation matrices). You may use the matplotlib packages.
      
     - `Data Analysis` is including visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features. You may find out basic statistical measures such as (mean, median, etc.) for each features. If any field contains multiple values. You need to split the values and transform it into a list of values.
         a. In this part, you need to prepare a set of questions and answer them using the data provided.
@@ -361,7 +361,7 @@ factors.
             d. Use Scatterplot (sessions completed vs. BDI change)
             e. Use Line plot (BDI over time) or Paired Dot plot (12 vs. 24 weeks)
                
-7. The analysis part is open-ended. You can come up with your own analysis ideas and implement them.
+6. The analysis part is open-ended. You can come up with your own analysis ideas and implement them.
 
 
         
