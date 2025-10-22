@@ -23,8 +23,8 @@ This repository might be updated with new projects and/or changes to existing pr
     - [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization)
       
   
-   <!-- - [Project 8 : Diabetes Type Classification](#project-8--diabetes-type-classification) -glucose monitoring from ieee bhi
-    - [Project 9: Predicting Maternal Health Risk](#project-9--predicting-maternal-health-risk) mental health risk -->
+   <!-- - [Project 8 : Diabetes Type Classification](#project-8--diabetes-type-classification) -glucose monitoring from ieee bhi -->
+    - [Project 9: Predicting Depression Risk and Recovery Using Demographic, Clinical, and Mindfulness Data](#project-9--predicting-mental-health-risk)
   - [Resources](#resources)
   - [All the best!](#all-the-best)
 ---
@@ -325,25 +325,57 @@ factors.
    - `Classification Task`: Define blood glucose levels as categorical variables (e.g., low, normal, high) and build a classification model to predict these levels.
    - `Regression Task`: Predicting Continuous Glucose Levels -- Build a regression model to predict continuous glucose levels based on lifestyle and insulin data.
    - `Model Evaluation and Tuning`:- Fine-tune the models built (classification, regression, or time-series) and evaluate their performance on a test dataset.
-10. Compile the analysis, results, and insights into a structured report and prepare a presentation.
+10. Compile the analysis, results, and insights into a structured report and prepare a presentation. -->
 
-### Project 9: Predicting Maternal Health Risk / mental health
+ ### Project 9: Predicting Depression Risk and Recovery Using Demographic, Clinical, and Mindfulness Data
 
-1. Data Loading and Initial Exploration: Load the Excel file containing the maternal health dataset and conduct an initial exploration to understand its structure and contents.
-2. Understand the dataset structure, data types, and basic statistics for each feature.
-3. A brief summary report with initial findings on data types, any missing values, and basic statistical measures (mean, median, etc.) for each feature.
-4. The dataset link ( https://archive.ics.uci.edu/dataset/863/maternal+health+risk ) is provided.
-5. The dataset may include clinical features such as:- Age, Systolic Blood Pressure as SystolicBP, Diastolic BP as DiastolicBP, Blood Sugar as BS, Body Temperature as BodyTemp, HeartRate and RiskLevel. All these are the responsible and significant risk factors for maternal mortality, that is one of the main concern of SDG of UN.
-6. The project is divided into following parts:-
-   - `Data Preprocessing and Cleaning`: A pre-processed dataset with no missing values or inconsistencies, ready for further analysis.
-   - `Data Analysis` is including visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features.
-   - `Classification Task`: Predicting Maternal Health Risk Level: Learn classification algorithms such as logistic regression, decision trees, random forests, or support vector machines, and evaluate model performance.
-   - Build a classification model to predict the risk level (low, medium, or high) based on the health features provided.
-7. Model Tuning and Optimization : Optimize the classification model by tuning hyperparameters and using techniques such as cross-validation.
-8. For report writing, compile the analysis, and results.-->
+1. Data Loading and Initial Exploration: Load the Excel file containing the mental health dataset and conduct an initial exploration to understand its structure and contents.
+2. The dataset is located in the `data/mental_health/mental_health_dataset.csv` directory.
+3. The dataset includes following  features such as:-
+   Demographics: age, sex
+   Clinical Factors: condition (specific disease), condition type (disease group), baseline BDI-II depression score, identifier of the hospital.
+   Mindfulness Therapy: number of sessions started, number of sessions completed
+   Health Outcomes: BDI-II depression score at 12 weeks, BDI-II depression score at 24 weeks
+   
+5. Understand the dataset structure, data types, and basic statistics for each features and give a brief summary report with initial findings on data types.
+6.  The project is divided into following parts:-
+    - `Data Preprocessing and Cleaning`:
+        - Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable techniques for data cleaning.
+        - Visualize distributions using (e.g histograms, boxplots, correlation matrices). You may use the matplotlib packages.
+     
+    - `Data Analysis` is including visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features. You may find out basic statistical measures such as (mean, median, etc.) for each features. If any field contains multiple values. You need to split the values and transform it into a list of values.
+        1. In this part, you need to prepare a set of questions and answer them using the data provided.
+        2. Answer `at least 15 questions` using the data provided.
+        3. A few examples questions to get you started are as follows:
+            - How do baseline BDI-II scores vary across disease groups (`condition_type`)?
+            - Are there noticeable differences in baseline depression levels between hospitals( `hospital_id`)?
+            - What is the average reduction in depression score for participants who completed all sessions versus those who did not?
+            - What is the `average cost of cultivation` of `rice` in the country?
+            - Are there differences in 12-week outcomes by sex, age group, or disease group?
+            - Which factors (demographic, clinical, or therapy-related) most strongly predict short-term depression improvement?
+            - What proportion of patients experience relapse or worsening after the 12-week period?
+        4. You can come up with your own questions and answer them using the data provided.
+     
+    - `Data Visualization` Make sure you potray all your data analysis using some plots, pie charts, bar charts, heatmaps as per the suitability.
+            - Use histograms (age), Bar chart or Pie chart (sex distribution)
+            - Visualize how many patients started vs. completed mindfulness sessions (e.g., stacked bar or pie chart).
+            - Use paired line plots or boxplots to compare baseline vs. 12-week BDI-II scores.
+            - Use Scatterplot (sessions completed vs. BDI change)
+            - Use Line plot (BDI over time) or Paired Dot plot (12 vs. 24 weeks)
+         
+      
+7. The analysis part is open-ended. You can come up with your own analysis ideas and implement them.
 
+
+        
+
+
+
+ 
+    
 ---
 ## Resources
+Main Goal: The overall goal for these projects is to give you an opportunity to explore and study with domain (agriculture/medical) data. 
 1. [Python Documentation](https://docs.python.org/3/)
 2. [Class Code Materials]: Mailed after each lab class
 3. [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/9780262542364/introduction-to-computation-and-programming-using-python/)
