@@ -339,7 +339,7 @@ factors.
 5.  The project is divided into following parts:-
     - `Data Preprocessing and Cleaning: `Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable techniques for data cleaning. 
    
-    - `Data Analysis` it includes visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features. You may find out basic statistical measures such as (mean, median, etc.) for each features. If any field contains multiple values. You need to split the values and transform it into a list of values.
+    - `Data Analysis:` It includes visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features. You may find out basic statistical measures such as (mean, median, etc.) for each features. If any field contains multiple values. You need to split the values and transform it into a list of values.
         1. In this part, you need to prepare a set of questions and answer them using the data provided.
         2. Answer `at least 15 questions` using the data provided.
         3. A few examples questions to get you started are as follows:
@@ -351,7 +351,8 @@ factors.
             *  What proportion of patients experience relapse or worsening after the 12-week period?
         d. You can come up with your own questions and answer them using the data provided.
      
-    - `Data Visualization` Make sure you potray all your data analysis using some plots, pie charts, bar charts, heatmaps as per the suitability
+    - `Data Visualization:` Make sure you potray all your data analysis using some plots, pie charts, bar charts, heatmaps as per the suitability.
+    - 
             1. Use histograms (age), Bar chart or Pie chart (sex distribution)
             2. Visualize how many patients started vs. completed mindfulness sessions (e.g., stacked bar or pie chart).
             3. Use paired line plots or boxplots to compare baseline vs. 12-week BDI-II scores.
