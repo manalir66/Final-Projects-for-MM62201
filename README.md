@@ -91,22 +91,27 @@ This repository might be updated with new projects and/or changes to existing pr
 <!-- ## Project Allocation
 |     Students                            | Project                |  Mentor TA    |
 |:---------------------------:|:-----------------------------:|:------------------:|
-|  | [Project 4 : Medical Image Visualization and Analysis](#project-4--medical-image-visualization-and-analysis) |  |
+
 |  | [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis) |  |
 |  | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) |  |
-|  | [Project 5 : Patient Health Statistical Analysis](#project-5--patient-health-statistical-analysis) |  |
-|  | [Project 6 : Impact of Soil Quality on Crop Growth Analysis](#project-6--impact-of-soil-quality-on-crop-growth-analysis) |  |
+|  | [Project 3 : Medical Image Visualization and Analysis](#project-3--medical-image-visualization-and-analysis) |  |
+|  | [Project 4 : Impact of Soil Quality on Crop Growth Analysis](#project-4--impact-of-soil-quality-on-crop-growth-analysis) |  |
+|  | [Project 5 : Plant Disease Analysis Using Leaf Image Data](#project-5--plant-disease-analysis-using-leaf-image-data) |  |
+|  | [Project 6 : PCOS Data Analysis and Visualization](#project-6--PCOS-data-analysis-and-visualization) |  |
+|  | [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization) |  |
+
+|  | [Project 8 : Diabetes Type Classification](#project-8--diabetes-type-classification) |  |
+|  | [Project 9: Predicting Maternal Health Risk](#project-8--predicting-maternal-health-risk) |  |
+
+
 |  | [Project 6.1 : Impact of Soil Quality on Crop Growth Analysis and Model Building](#project-6--impact-of-soil-quality-on-crop-growth-analysis-and-model-building) |  |
-|  | [Project 6.2 : Impact of Soil Quality on Crop Growth Analysis and Building of An Application](#project-6--impact-of-soil-quality-on-crop-growth-analysis-and-building-of-an-application) |  |
-|  | [Project 7 : Plant Disease Analysis Using Leaf Image Data](#project-7--plant-disease-analysis-using-leaf-image-data) |  |
-|  | [Project 8 : PCOS Data Analysis and Visualization](#project-8--PCOS-data-analysis-and-visualization) |  |
-|  | [Project 9 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-9--mushroom-edibility-classification-using-data-analysis-and-visualization) |  |
-
-|  | [Project 10 : Diabetes Type Classification](#project-10--diabetes-type-classification) |  |
-|  | [Project 11: Predicting Maternal Health Risk](#project-11--predicting-maternal-health-risk) |  | -->
+|  | [Project 6.2 : Impact of Soil Quality on Crop Growth Analysis and Building of An Application](#project-6--impact-of-soil-quality-on-crop-growth-analysis-and-building-of-an-application) |  | -->
 
 
-<!--## Projects
+
+
+
+## Projects
 
 ### Project 1 : Medical Transcription Analysis
 
@@ -176,40 +181,9 @@ This repository might be updated with new projects and/or changes to existing pr
         1. Visualize the data using `matplotlib` or `seaborn` library.
         2. Visualizing the data will help you understand the data better and answer the questions.
 
-
-### Project 3 : ISBI 2022 Accepted Submissions Analysis
-
-1. The project aims to analyse the accepted submissions of ISBI 2022. The dataset is located in the `data/isbi2022/` directory.
-2. The dataset comprised of multiple `json` files. `JSON` stands for `J`avaScript `O`bject `N`otation. It is a lightweight data-interchange format. It is easy for humans to read and write.
-3. Each json file contain the information about multiple papers(about 100 papers in each). The information about the paper is stored in the form of key-value pairs. `JSON` is all about key-value pairs (aka `dictionaries` in Python).
-4. Each paper contains more than 20 attributes, but the most useful attributes are listed as follows :
-   - `articleTitle` : Title of the paper
-   - `authors` : List of authors of the paper
-   - `citationCount` : Number of citations of the paper
-   - `downloadCount` : Number of downloads of the paper
-   -  `startPage` : Starting page of the paper
-   -  `endPage` : Ending page of the paper
-   -  `abstract` : Stripped abstract of the paper
-5. The project can be divided into sub-areas as follows :
-   - `Data Preprocessing`
-        1. Write functions to read to multiple json files and concatenate them into a single dataframe.
-        2. Also only keep the useful attributes mentioned above and drop the rest.
-   - `Data Analysis`
-        1. In this part you can prepare a set of questions at least 15 and answer them using the dataset.
-        2. Some examples questions to get you started:
-            * On which `area` of ISBI 2022, the most number of papers were submitted?
-            * Which are the `top 10` downloaded papers and what are they about?
-            * Which are the `top 10` cited papers and what are they about?
-            * What are the `mean` and `median` number of `authors` per paper?
-            * Most common words in the abstracts of the papers? Form a `word cloud`.
-            * What is the `average` number of `pages` per paper?
-            * And so on... Get creative and come up with your own questions.
-   - `Data Visualization`
-        1. In this part you can make use of the `matplotlib` and `seaborn` libraries to visualize the answers to the questions you asked in the previous part.
-        2. Everyone likes to see the results in the form of `graphs` and `charts`. So, make sure you visualize the answers to the questions you asked in the previous part.
    
 
-### Project 4 : Medical Image Visualization and Analysis
+### Project 3 : Medical Image Visualization and Analysis
 
 1. The project aims to read, visualize and analyze the medical images. The dataset is located in the `data/medical_images/` directory.
 2. The dataset contains medical images of `MRI` and `CT` scans for different anatomical parts of the body. It also contains the `segmentation masks` for the images.
@@ -237,43 +211,8 @@ This repository might be updated with new projects and/or changes to existing pr
 12. Try with statistical analysis first and then move on to more complex analysis. Although, we do not expect you to perform complex analysis, you can try it if you want to.
 13. Remember, the analysis part is open ended. You can come up with your own analysis ideas and implement them.
 
-### Project 5 : Patient Health Statistical Analysis
 
-1. Create a .csv file which contain the following information
-
-      - create an attribute with name `patient` Ten names of your friends or Random names-`string` format
-      - add the attribute `patient Identifier` and assign 1 to 10 digits for each person-integer format.
-      - add the attribute `Height` and add the respective heights in `float` format
-
-            {5.5,5.6,6.1,6.1,6.0,5.9,5.8,5.8,5.8,9.1}  Float format
-
-      - add the attribute `Temperature` and add the respective heights in `float` format
-
-            {97.2,97.3,97.8,98,98.1,98.2,97.3,98,101,102}  Float format
-
-      - add the attribute '`disease` and assign the following as per their patient identifier
-
-            Randomly assign the disease to patients with the following
-              {Headeach ,cold ,fever}
-
-      - add the attribute `Hospital` and assign the following as per the patient identifier randomly.
-
-      - add the attribute `Cost` and assign the following as per the patient identifier randomly.
-
-            {20.0,1000.0,800.0,910.0,950.0,980.0,990.0,890.0,880.0,930.0}  Float format
-
-2. Obtain the statistics from the dataset you created
-      - Now create the class to represent the same above data
-      - create the methods to calculate the statistics
-           
-            Mean ,Median ,Mode of 'Height'
-            Mean ,Median ,Mode of 'Cost'
-            Mean ,Median ,Mode of 'Temperature'
-3. comment on the statistic calculations and clearly mention your observation
-         
-         Note: This section may hold high weightage so write the observations in short and specific to point.
-
-### Project 6 : Impact of Soil Quality on Crop Growth Analysis
+<!-- ### Project 4 : Impact of Soil Quality on Crop Growth Analysis
 
 1. This project aims to explore how soil quality (nutrients, pH) and weather conditions (temperature, humidity, rainfall) influence different crops. The dataset is located in the `data/crop_growth/` directory.
 2. By analyzing this data, you will identify patterns and insights that can help to classify the type of crop grown in different regions based on these soil and weather factors.
@@ -301,9 +240,9 @@ This repository might be updated with new projects and/or changes to existing pr
 5. You can use the `pandas` library for handling missing data, imputation, encoding, and descriptive statistics.
 6. For scaling features and encoding categorical data, you can use `scikit-learn` library.
 7. The `seaborn` and `matplotlib` library is used for creating visualizations like pair plots, heatmaps, bar charts, scatter plots, and histograms.
-8. You can try to develop a classification model to predict crop types based on soil and weather features and evaluate their performance. Although, we do not expect you to build the classification model, you can try it if you want to.
+8. You can try to develop a classification model to predict crop types based on soil and weather features and evaluate their performance. Although, we do not expect you to build the classification model, you can try it if you want to. -->
        
-### Project 7 : Plant Disease Analysis Using Leaf Image Data
+### Project 5 : Plant Disease Analysis Using Leaf Image Data
 
 1. The aim of this project is to identify plant diseases from images of leaves using image processing and machine learning techniques. The dataset is located in the `data/plant_disease/` directory.
 2. By analyzing the key visual differences between healthy and diseased plant leaves, the project aims to automate disease detection, which can help farmers and agricultural experts identify problems early and take action to improve crop health.
@@ -325,7 +264,7 @@ This repository might be updated with new projects and/or changes to existing pr
 4. Remember, the analysis part is open-ended. You can come up with your own analysis ideas and implement them.
 5. You can try to develop a deep learning model for plant disease detection and evaluate their performance. Although, we do not expect you to build the detection model, you can try it if you want to.
 
-### Project 8 : PCOS Data Analysis and Visualization
+### Project 6 : PCOS Data Analysis and Visualization
 
 1. The aim of this project is to analyze data related to Polycystic Ovary Syndrome (PCOS), a hormonal disorder affecting women of reproductive age.
 2. The analysis will explore the relationship between various clinical, demographic, and lifestyle factors with the occurrence of PCOS.
@@ -349,7 +288,7 @@ This repository might be updated with new projects and/or changes to existing pr
      * `Feature Importance Visualization`: Use a machine learning model like a Decision Tree or Random Forest to identify the most important features contributing to PCOS and visualize them using bar plots by using `scikit-learn` library.
 6. Remember, the analysis part is open-ended. You can come up with your own analysis ideas and implement them.
 
-### Project 9 : Mushroom Edibility Classification Using Data Analysis and Visualization
+### Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization
 
 1. The goal of this project is to analyze a dataset containing descriptions of various mushroom species, focusing on the identification of features that distinguish between edible and poisonous mushrooms. Find the dataset at - https://archive.ics.uci.edu/dataset/73/mushroom
 2. The project will involve handling missing values, performing descriptive and correlation analyses, and generating insightful visualizations to understand which characteristics are most associated with edibility or toxicity.
@@ -369,7 +308,7 @@ This repository might be updated with new projects and/or changes to existing pr
     * `Decision Tree Visualization`: If a decision tree model is used, visualize the tree to illustrate decision-making criteria and the most relevant features associated with edibility.
 4. Remember, the analysis part is open-ended. You can come up with your own analysis ideas and implement them.
 
-### Project 10 : Diabetes Type Classification
+<!-- ### Project 8 : Diabetes Type Classification -glucose monitoring
 
 1. Extract the diabetes data from the compressed file (`diabetes-data.tar.Z`) and load it into a suitable format (e.g., CSV, Pandas DataFrames). You can find the dataset at - https://archive.ics.uci.edu/dataset/34/diabetes
 2. Learn how to work with archived and compressed files, data extraction, and loading datasets.
@@ -388,7 +327,7 @@ factors.
    - `Model Evaluation and Tuning`:- Fine-tune the models built (classification, regression, or time-series) and evaluate their performance on a test dataset.
 10. Compile the analysis, results, and insights into a structured report and prepare a presentation.
 
-### Project 11: Predicting Maternal Health Risk
+### Project 9: Predicting Maternal Health Risk / mental health
 
 1. Data Loading and Initial Exploration: Load the Excel file containing the maternal health dataset and conduct an initial exploration to understand its structure and contents.
 2. Understand the dataset structure, data types, and basic statistics for each feature.
