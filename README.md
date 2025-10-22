@@ -16,15 +16,15 @@ This repository might be updated with new projects and/or changes to existing pr
     
     - [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis)
     - [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis)
-    - [Project 3 : Medical Image Visualization and Analysis](#project-4--medical-image-visualization-and-analysis)
-    - [Project 4 : Impact of Soil Quality on Crop Growth Analysis](#project-6--impact-of-soil-quality-on-crop-growth-analysis)
-    - [Project 5 : Plant Disease Analysis Using Leaf Image Data](#project-7--plant-disease-analysis-using-leaf-image-data)
-    - [Project 6 : PCOS Data Analysis and Visualization](#project-8--PCOS-data-analysis-and-visualization)
-    - [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-9--mushroom-edibility-classification-using-data-analysis-and-visualization)
+    - [Project 3 : Medical Image Visualization and Analysis](#project-3--medical-image-visualization-and-analysis)
+    - [Project 4 : Impact of Soil Quality on Crop Growth Analysis](#project-4--impact-of-soil-quality-on-crop-growth-analysis)
+    - [Project 5 : Plant Disease Analysis Using Leaf Image Data](#project-5--plant-disease-analysis-using-leaf-image-data)
+    - [Project 6 : PCOS Data Analysis and Visualization](#project-6--PCOS-data-analysis-and-visualization)
+    - [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization)
       
   
-    - [Project 8 : Diabetes Type Classification](#project-10--diabetes-type-classification) -glucose monitoring from ieee bhi
-    - [Project 9: Predicting Maternal Health Risk](#project-11--predicting-maternal-health-risk) mental health risk
+   <!-- - [Project 8 : Diabetes Type Classification](#project-8--diabetes-type-classification) -glucose monitoring from ieee bhi
+    - [Project 9: Predicting Maternal Health Risk](#project-9--predicting-maternal-health-risk) mental health risk -->
   - [Resources](#resources)
   - [All the best!](#all-the-best)
 ---
