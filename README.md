@@ -21,7 +21,7 @@ This repository might be updated with new projects and/or changes to existing pr
     - [Project 5 : Plant Disease Analysis Using Leaf Image Data](#project-5--plant-disease-analysis-using-leaf-image-data)
     - [Project 6 : PCOS Data Analysis and Visualization](#project-6--PCOS-data-analysis-and-visualization)
     - [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization)
-   <!-- - [Project 8 : Diabetes Type Classification](#project-8--diabetes-type-classification) -glucose monitoring from ieee bhi -->
+    - [Project 8 : Diabetes Type Classification](#project-8--diabetes-type-classification) -glucose monitoring from ieee bhi -->
     - [Project 9: Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-9--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data)
   - [Resources](#resourcesm
   - [All the best!](#all-the-best)
