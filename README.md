@@ -22,7 +22,7 @@ This repository might be updated with new projects and/or changes to existing pr
     - [Project 6 : PCOS Data Analysis and Visualization](#project-6--PCOS-data-analysis-and-visualization)
     - [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization)
     - [Project 8 : Diabetes Type Classification](#project-8--diabetes-type-classification) -glucose monitoring from ieee bhi
-    - [Project 9: Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-9--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data)
+    - [Project 9 : Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-9--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data)
   - [Resources](#resources)
   - [All the best!](#all-the-best)
 ---
@@ -346,18 +346,17 @@ factors.
             *  How do baseline BDI-II scores vary across disease groups (`condition_type`)?
             *  Are there noticeable differences in baseline depression levels between hospitals( `hospital_id`)?
             *  What is the average reduction in depression score for participants who completed all sessions versus those who did not?
-            *  What is the `average cost of cultivation` of `rice` in the country?
             *  Are there differences in 12-week outcomes by sex, age group, or disease group?
             *  Which factors (demographic, clinical, or therapy-related) most strongly predict short-term depression improvement?
             *  What proportion of patients experience relapse or worsening after the 12-week period?
         d. You can come up with your own questions and answer them using the data provided.
      
     - `Data Visualization` Make sure you potray all your data analysis using some plots, pie charts, bar charts, heatmaps as per the suitability.
-            - Use histograms (age), Bar chart or Pie chart (sex distribution)
-            - Visualize how many patients started vs. completed mindfulness sessions (e.g., stacked bar or pie chart).
-            - Use paired line plots or boxplots to compare baseline vs. 12-week BDI-II scores.
-            - Use Scatterplot (sessions completed vs. BDI change)
-            - Use Line plot (BDI over time) or Paired Dot plot (12 vs. 24 weeks)
+            1. Use histograms (age), Bar chart or Pie chart (sex distribution)
+            2. Visualize how many patients started vs. completed mindfulness sessions (e.g., stacked bar or pie chart).
+            3. Use paired line plots or boxplots to compare baseline vs. 12-week BDI-II scores.
+            4. Use Scatterplot (sessions completed vs. BDI change)
+            5. Use Line plot (BDI over time) or Paired Dot plot (12 vs. 24 weeks)
                
 6. The analysis part is open-ended. You can come up with your own analysis ideas and implement them.
 
