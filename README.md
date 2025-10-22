@@ -99,11 +99,7 @@ The deadline for the final project submission is 27th November 2025, 23:59 IST**
 |  | [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization) |  |
 
 |  | [Project 8 : Diabetes Type Classification](#project-8--diabetes-type-classification) |  |
-|  | [Project 9: Predicting Maternal Health Risk](#project-8--predicting-maternal-health-risk) |  |
-
-
-|  | [Project 6.1 : Impact of Soil Quality on Crop Growth Analysis and Model Building](#project-6--impact-of-soil-quality-on-crop-growth-analysis-and-model-building) |  |
-|  | [Project 6.2 : Impact of Soil Quality on Crop Growth Analysis and Building of An Application](#project-6--impact-of-soil-quality-on-crop-growth-analysis-and-building-of-an-application) |  | -->
+|  | [Project 9: Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-9--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data) |  |-->
 
 
 
