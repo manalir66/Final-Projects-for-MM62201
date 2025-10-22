@@ -23,7 +23,7 @@ This repository might be updated with new projects and/or changes to existing pr
     - [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization)
     - [Project 8 : Diabetes Type Classification](#project-8--diabetes-type-classification) -glucose monitoring from ieee bhi -->
     - [Project 9: Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-9--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data)
-  - [Resources](#resourcesm
+  - [Resources](#resources)
   - [All the best!](#all-the-best)
 ---
   ## Instructions
