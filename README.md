@@ -22,7 +22,7 @@ This repository might be updated with new projects and/or changes to existing pr
     - [Project 6 : PCOS Data Analysis and Visualization](#project-6--PCOS-data-analysis-and-visualization)
     - [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization)
    <!-- - [Project 8 : Diabetes Type Classification](#project-8--diabetes-type-classification) -glucose monitoring from ieee bhi -->
-    - [Project 9: Predicting Depression Risk and Recovery Using Demographic, Clinical, and Mindfulness Data](#project-9--predicting-depression-risk-and-recovery-using-demographic-clinical-and-mindfulness-data)
+    - [Project 9: Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-9--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data)
   - [Resources](#resourcesm
   - [All the best!](#all-the-best)
 ---
@@ -330,10 +330,10 @@ factors.
 1. Data Loading and Initial Exploration: Load the Excel file containing the mental health dataset and conduct an initial exploration to understand its structure and contents.
 2. The dataset is located in the `data/mental_health/mental_health_dataset.csv` directory.
 3. The dataset includes following  features such as:-
-   Demographics: age, sex
-   Clinical Factors: condition (specific disease), condition type (disease group), baseline BDI-II depression score, identifier of the hospital.
-   Mindfulness Therapy: number of sessions started, number of sessions completed
-   Health Outcomes: BDI-II depression score at 12 weeks, BDI-II depression score at 24 weeks
+   `Demographics:` age, sex
+   `Clinical Factors:` condition (specific disease), condition type (disease group), baseline BDI-II depression score, identifier of the hospital.
+   `Mindfulness Therapy:` number of sessions started, number of sessions completed
+   `Health Outcomes:` BDI-II depression score at 12 weeks, BDI-II depression score at 24 weeks
    
 5. Understand the dataset structure, data types, and basic statistics for each features and give a brief summary report with initial findings on data types.
 6.  The project is divided into following parts:-
