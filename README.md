@@ -212,7 +212,7 @@ This repository might be updated with new projects and/or changes to existing pr
 13. Remember, the analysis part is open ended. You can come up with your own analysis ideas and implement them.
 
 
-<!-- ### Project 4 : Impact of Soil Quality on Crop Growth Analysis
+ ### Project 4 : Impact of Soil Quality on Crop Growth Analysis
 
 1. This project aims to explore how soil quality (nutrients, pH) and weather conditions (temperature, humidity, rainfall) influence different crops. The dataset is located in the `data/crop_growth/` directory.
 2. By analyzing this data, you will identify patterns and insights that can help to classify the type of crop grown in different regions based on these soil and weather factors.
