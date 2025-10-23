@@ -22,6 +22,7 @@ This repository might be updated with new projects and/or changes to existing pr
     - [Project 6 : PCOS Data Analysis and Visualization](#project-6--PCOS-data-analysis-and-visualization)
     - [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization)
     - [Project 8 : Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-8--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data)
+    - [Project 9 : Exploring Glucose, Heart Rate, and Activity Patterns in Personalized Nutrition](#project-9--exploring-glucose,-heart-rate,-and-activity-patterns-in-personalized-nutrition)
   - [Resources](#resources)
   - [All the best!](#all-the-best)
 ---
@@ -96,7 +97,8 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
 |  | [Project 5 : Plant Disease Analysis Using Leaf Image Data](#project-5--plant-disease-analysis-using-leaf-image-data) |  |
 |  | [Project 6 : PCOS Data Analysis and Visualization](#project-6--PCOS-data-analysis-and-visualization) |  |
 |  | [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization) |  |
-|  | [Project 8: Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-9--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data) |  |
+|  | [Project 8: Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-8--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data) |  |
+|  | [Project 9 : Exploring Glucose, Heart Rate, and Activity Patterns in Personalized Nutrition](#project-9--exploring-glucose,-heart-rate,-and-activity-patterns-in-personalized-nutrition) | |
 
 
 ## Projects
