@@ -356,9 +356,9 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
      - CGMacros-00XX.csv: Time-series data per participant including glucose (Libre GL), heart rate (HR), calories burned, and METs.
      - bio.csv: Baseline characteristics and lab measurements including BMI, A1c, fasting glucose, insulin, cholesterol, and fingerstick glucose readings.
 
-   - `Data Preprocessing and Cleaning:` Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable imputation techniques for data cleaning and filling missing entries. Understand the association between the datasets. Convert timestamps to datetime objects.
+  4. `Data Preprocessing and Cleaning:` Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable imputation techniques for data cleaning and filling missing entries. Understand the association between the datasets. Convert timestamps to datetime objects.
   
-   - `Data Analysis:` It includes visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features. You may find out basic statistical measures such as (mean, median, etc.) for each features. 
+  5. `Data Analysis:` It includes visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features. You may find out basic statistical measures such as (mean, median, etc.) for each features. 
         - In this part, you need to prepare a set of questions and answer them using the data provided.
         - Answer `at least 15 questions` using the data provided.
           
@@ -372,7 +372,7 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
             -  What time of day tends to show the highest average glucose across participants?
             -  Compare male vs. female participants on fasting glucose, A1c, and average Libre GL.
          
-   - `Data Visualization:`
+  6. `Data Visualization:`
             -  Use line plots to analyze time-series data(glucose value from Libre GL varying over time). You can also plot for single metric or with multiple metrics such as heart rate, calorie values.
             -  Bar charts can be used for comparing average glucose between participants.
             -  Scatterplots can be used to showcase peak glucose levels with higher heart rate.
