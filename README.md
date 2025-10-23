@@ -36,6 +36,7 @@ This repository might be updated with new projects and/or changes to existing pr
   5. Each student will be evaluated based on the contribution towards the project. Make sure you are contributing equally to the project.
   6. Code plagiarism will not be tolerated. Any submission found to be plagiarized will be awarded a zero grade.
   7. Late submissions will not be accepted.
+  8. Pre-requisite: For all of the below mentioned projects, go through the dataset throughly before attempting to solve them. 
 
 ### Evaluation Policy
 1. The final project evaluation is based on the following criteria:
@@ -349,27 +350,45 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
 
 ### Project 9 : Monitoring Glucose, Heart Rate, and Activity Patterns in Personalized Nutrition
 
-1. The goal of this project is to explore how physiological and lifestyle factors relate to glucose regulation in 10 participants.
-2. The dataset is located in `data\nutrition\` directory.
-3. You will work with:
-   - CGMacros-00XX.csv: Time-series data per participant including glucose (Libre GL), heart rate (HR), calories burned, and METs.
-   - bio.csv: Baseline characteristics and lab measurements including BMI, A1c, fasting glucose, insulin, cholesterol, and fingerstick glucose readings.
+  1. The goal of this project is to explore how physiological and lifestyle factors relate to glucose regulation in 10 participants.
+  2. The dataset is located in `data\nutrition\` directory.
+  3. You will work with:
+     - CGMacros-00XX.csv: Time-series data per participant including glucose (Libre GL), heart rate (HR), calories burned, and METs.
+     - bio.csv: Baseline characteristics and lab measurements including BMI, A1c, fasting glucose, insulin, cholesterol, and fingerstick glucose readings.
 
-- `Data Preprocessing and Cleaning:` Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable imputation techniques for data cleaning and filling missing entries. Understand the association between the datasets.
+   - `Data Preprocessing and Cleaning:` Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable imputation techniques for data cleaning and filling missing entries. Understand the association between the datasets. Convert timestamps to datetime objects.
   
-- `Data Analysis:` It includes visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features. You may find out basic statistical measures such as (mean, median, etc.) for each features. 
+   - `Data Analysis:` It includes visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features. You may find out basic statistical measures such as (mean, median, etc.) for each features. 
         - In this part, you need to prepare a set of questions and answer them using the data provided.
         - Answer `at least 15 questions` using the data provided. For e.g,
-           * How does Libre GL glucose vary over time for each participant?
+  
+           *  How does Libre GL glucose vary over time for each participant?
+           *  How do heart rate, calories, and METs vary during the day for each participant?
+           *  Compare average glucose (Libre GL) between participants.
+           *  Does higher heart rate associate with lower or higher glucose spikes?
+           *  Identify the participant with highest glucose variability.
+           *  Visualize daily activity vs. daily glucose averages for each participant.
+           *  Compute average daily metrics (mean HR, mean glucose, calories burned) and plot across participants.
+           *  What time of day tends to show the highest average glucose across participants?
+           *  Compare male vs. female participants on fasting glucose, A1c, and average Libre GL.
+         
+   - `Data Visualization:`
+           1.  Use line plots to analyze time-series data(glucose value from Libre GL varying over time). You can also plot for single metric or with multiple metrics such as heart rate, calorie values.
+           2.  Bar charts can be used for comparing average glucose between participants.
+           3.  Scatterplots can be used to showcase peak glucose levels with higher heart rate.
+          
+  4. The analysis is open-ended and you can frame your own questions. Use suitable plots to visualize your data. 
+
+  
   
 
 ## Resources
-Main Goal: The overall goal for these projects is to give you an opportunity to explore and study with domain (agriculture/medical) data. 
+Main Goal: The overall goal for these projects is to give you an opportunity to explore, understand and study with domain-specific (i,e., agriculture/medical) data. 
 1. [Python Documentation](https://docs.python.org/3/)
 2. [Class Code Materials]: Mailed after each lab class
 3. [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/9780262542364/introduction-to-computation-and-programming-using-python/)
 4. [Elements of Programming Interviews in Python]()
-5. Python Libraries
+5. Python Libraries: Please explore these Python libraries in depth to identify their unique features, capabilities, and functionalities (mostly to identify the right kind of visualization tools).
    1. [Matplotlib : For awesome visualizations](https://matplotlib.org/)
    2. [Pandas : For data analysis](https://pandas.pydata.org/)
    3. [Numpy : For numerical computations](https://numpy.org/)
