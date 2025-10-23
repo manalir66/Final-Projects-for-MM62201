@@ -353,7 +353,7 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
 2. The dataset is located in `data\nutrition\` directory.
 3. You will work with:
    - CGMacros-00XX.csv: Time-series data per participant including glucose (Libre GL), heart rate (HR), calories burned, and METs.
-    bio.csv: Baseline characteristics and lab measurements including BMI, A1c, fasting glucose, insulin, cholesterol, and fingerstick glucose readings.
+   - bio.csv: Baseline characteristics and lab measurements including BMI, A1c, fasting glucose, insulin, cholesterol, and fingerstick glucose readings.
 
 
 - `Data Preprocessing and Cleaning:` Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable imputation techniques for data cleaning and filling missing entries. Understand the association between the datasets.
