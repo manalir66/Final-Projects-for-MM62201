@@ -132,6 +132,8 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
    - `Data Visualization`
         1. In this part you can make use of the `matplotlib` and `seaborn` libraries to visualize the answers to the questions you asked in the previous part.
         2. Everyone likes to see the results in the form of `graphs` and `charts`. So, make sure you visualize the answers to the questions you asked in the previous part.
+           
+    <!------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### Project 2 : Agriculture Crop Production Analysis
 
@@ -172,6 +174,7 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
         2. Visualizing the data will help you understand the data better and answer the questions.
 
    
+<!------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### Project 3 : Medical Image Visualization and Analysis
 
@@ -201,7 +204,7 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
 12. Try with statistical analysis first and then move on to more complex analysis. Although, we do not expect you to perform complex analysis, you can try it if you want to.
 13. Remember, the analysis part is open ended. You can come up with your own analysis ideas and implement them.
 
-
+<!------------------------------------------------------------------------------------------------------------------------------------------->
  ### Project 4 : Impact of Soil Quality on Crop Growth Analysis
 
 1. This project aims to explore how soil quality (nutrients, pH) and weather conditions (temperature, humidity, rainfall) influence different crops. The dataset is located in the `data/crop_growth/` directory.
@@ -231,7 +234,9 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
 6. For scaling features and encoding categorical data, you can use `scikit-learn` library.
 7. The `seaborn` and `matplotlib` library is used for creating visualizations like pair plots, heatmaps, bar charts, scatter plots, and histograms.
 8. You can try to develop a classification model to predict crop types based on soil and weather features and evaluate their performance. Although, we do not expect you to build the classification model, you can try it if you want to. -->
-       
+
+<!------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### Project 5 : Plant Disease Analysis Using Leaf Image Data
 
 1. The aim of this project is to identify plant diseases from images of leaves using image processing and machine learning techniques. The dataset is located in the `data/plant_disease/` directory.
@@ -253,6 +258,8 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
      * `Dimensionality Reduction (PCA or t-SNE)`: Apply dimensionality reduction techniques such as PCA (Principal Component Analysis) or t-SNE (t-distributed Stochastic Neighbor Embedding) to reduce the high-dimensional image data to 2D or 3D space. This allows for visualization of the relationships between images and how different diseases cluster together. You can use `scikit-learn` library to perform PCA or t-SNE for feature reduction.
 4. Remember, the analysis part is open-ended. You can come up with your own analysis ideas and implement them.
 5. You can try to develop a deep learning model for plant disease detection and evaluate their performance. Although, we do not expect you to build the detection model, you can try it if you want to.
+
+<!------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### Project 6 : PCOS Data Analysis and Visualization
 
@@ -278,6 +285,8 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
      * `Feature Importance Visualization`: Use a machine learning model like a Decision Tree or Random Forest to identify the most important features contributing to PCOS and visualize them using bar plots by using `scikit-learn` library.
 6. Remember, the analysis part is open-ended. You can come up with your own analysis ideas and implement them.
 
+<!------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization
 
 1. The goal of this project is to analyze a dataset containing descriptions of various mushroom species, focusing on the identification of features that distinguish between edible and poisonous mushrooms. Find the dataset at - https://archive.ics.uci.edu/dataset/73/mushroom
@@ -298,6 +307,8 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
     * `Decision Tree Visualization`: If a decision tree model is used, visualize the tree to illustrate decision-making criteria and the most relevant features associated with edibility.
 4. Remember, the analysis part is open-ended. You can come up with your own analysis ideas and implement them.
 
+<!------------------------------------------------------------------------------------------------------------------------------------------->
+
  ### Project 8 : Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data
 
 1. Data Loading and Initial Exploration: Load the Excel file containing the mental health dataset and conduct an initial exploration to understand its structure and contents.
@@ -310,7 +321,7 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
    
 4. Understand the dataset structure, data types, and basic statistics for each features and give a brief summary report with initial findings on data types.
 5.  The project is divided into following parts:-
-    - `Data Preprocessing and Cleaning: `Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable techniques for data cleaning. 
+    - `Data Preprocessing and Cleaning: `Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable imputation techniques for data cleaning and filling missing entries. 
    
     - `Data Analysis:` It includes visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features. You may find out basic statistical measures such as (mean, median, etc.) for each features. If any field contains multiple values. You need to split the values and transform it into a list of values.
         1. In this part, you need to prepare a set of questions and answer them using the data provided.
@@ -333,6 +344,22 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
         5. Use Line plot (BDI over time) or Paired Dot plot (12 vs. 24 weeks)
                
 6. The analysis part is open-ended. You can come up with your own analysis ideas and implement them.
+
+<!------------------------------------------------------------------------------------------------------------------------------------------->
+
+### Project 9 : Exploring Glucose, Heart Rate, and Activity Patterns in Personalized Nutrition
+1. The goal of this project is to explore how physiological and lifestyle factors relate to glucose regulation in 10 participants. You will work with:
+  a. CGMacros-00XX.csv: Time-series data per participant including glucose (Libre GL), heart rate (HR), calories burned, and METs.
+  b. bio.csv: Baseline characteristics and lab measurements including BMI, A1c, fasting glucose, insulin, cholesterol, and fingerstick glucose readings.
+The dataset is located in `data\nutrition\` directory.
+
+- `Data Preprocessing and Cleaning:` Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable imputation techniques for data cleaning and filling missing entries. Understand the association between the datasets.
+  
+- `Data Analysis:` It includes visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features. You may find out basic statistical measures such as (mean, median, etc.) for each features. 
+        1. In this part, you need to prepare a set of questions and answer them using the data provided.
+        2. Answer `at least 15 questions` using the data provided. For e.g,
+           * How does Libre GL glucose vary over time for each participant?
+  
 
 ## Resources
 Main Goal: The overall goal for these projects is to give you an opportunity to explore and study with domain (agriculture/medical) data. 
