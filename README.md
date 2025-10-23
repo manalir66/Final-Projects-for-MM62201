@@ -355,12 +355,11 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
    - CGMacros-00XX.csv: Time-series data per participant including glucose (Libre GL), heart rate (HR), calories burned, and METs.
    - bio.csv: Baseline characteristics and lab measurements including BMI, A1c, fasting glucose, insulin, cholesterol, and fingerstick glucose readings.
 
-
 - `Data Preprocessing and Cleaning:` Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable imputation techniques for data cleaning and filling missing entries. Understand the association between the datasets.
   
 - `Data Analysis:` It includes visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features. You may find out basic statistical measures such as (mean, median, etc.) for each features. 
-        1. In this part, you need to prepare a set of questions and answer them using the data provided.
-        2. Answer `at least 15 questions` using the data provided. For e.g,
+        - In this part, you need to prepare a set of questions and answer them using the data provided.
+        - Answer `at least 15 questions` using the data provided. For e.g,
            * How does Libre GL glucose vary over time for each participant?
   
 
