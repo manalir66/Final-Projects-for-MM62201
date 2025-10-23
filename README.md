@@ -360,22 +360,22 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
   
    - `Data Analysis:` It includes visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features. You may find out basic statistical measures such as (mean, median, etc.) for each features. 
         - In this part, you need to prepare a set of questions and answer them using the data provided.
-        - Answer `at least 15 questions` using the data provided. For e.g,
-  
-           *  How does Libre GL glucose vary over time for each participant?
-           *  How do heart rate, calories, and METs vary during the day for each participant?
-           *  Compare average glucose (Libre GL) between participants.
-           *  Does higher heart rate associate with lower or higher glucose spikes?
-           *  Identify the participant with highest glucose variability.
-           *  Visualize daily activity vs. daily glucose averages for each participant.
-           *  Compute average daily metrics (mean HR, mean glucose, calories burned) and plot across participants.
-           *  What time of day tends to show the highest average glucose across participants?
-           *  Compare male vs. female participants on fasting glucose, A1c, and average Libre GL.
+        - Answer `at least 15 questions` using the data provided.
+          
+            *  How does Libre GL glucose vary over time for each participant?
+            *  How do heart rate, calories, and METs vary during the day for each participant?
+            *  Compare average glucose (Libre GL) between participants.
+            *  Does higher heart rate associate with lower or higher glucose spikes?
+            *  Identify the participant with highest glucose variability.
+            *  Visualize daily activity vs. daily glucose averages for each participant.
+            *  Compute average daily metrics (mean HR, mean glucose, calories burned) and plot across participants.
+            *  What time of day tends to show the highest average glucose across participants?
+            *  Compare male vs. female participants on fasting glucose, A1c, and average Libre GL.
          
    - `Data Visualization:`
-           *  Use line plots to analyze time-series data(glucose value from Libre GL varying over time). You can also plot for single metric or with multiple metrics such as heart rate, calorie values.
-           *  Bar charts can be used for comparing average glucose between participants.
-           *  Scatterplots can be used to showcase peak glucose levels with higher heart rate.
+            *  Use line plots to analyze time-series data(glucose value from Libre GL varying over time). You can also plot for single metric or with multiple metrics such as heart rate, calorie values.
+            *  Bar charts can be used for comparing average glucose between participants.
+            *  Scatterplots can be used to showcase peak glucose levels with higher heart rate.
           
   4. The analysis is open-ended and you can frame your own questions. Use suitable plots to visualize your data. 
 
