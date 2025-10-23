@@ -373,9 +373,9 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
            *  Compare male vs. female participants on fasting glucose, A1c, and average Libre GL.
          
    - `Data Visualization:`
-           1.  Use line plots to analyze time-series data(glucose value from Libre GL varying over time). You can also plot for single metric or with multiple metrics such as heart rate, calorie values.
-           2.  Bar charts can be used for comparing average glucose between participants.
-           3.  Scatterplots can be used to showcase peak glucose levels with higher heart rate.
+           *  Use line plots to analyze time-series data(glucose value from Libre GL varying over time). You can also plot for single metric or with multiple metrics such as heart rate, calorie values.
+           *  Bar charts can be used for comparing average glucose between participants.
+           *  Scatterplots can be used to showcase peak glucose levels with higher heart rate.
           
   4. The analysis is open-ended and you can frame your own questions. Use suitable plots to visualize your data. 
 
