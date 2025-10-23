@@ -97,7 +97,7 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
 |  | [Project 5 : Plant Disease Analysis Using Leaf Image Data](#project-5--plant-disease-analysis-using-leaf-image-data) |  |
 |  | [Project 6 : PCOS Data Analysis and Visualization](#project-6--PCOS-data-analysis-and-visualization) |  |
 |  | [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization) |  |
-|  | [Project 8: Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-8--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data) |  |
+|  | [Project 8 : Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-8--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data) |  |
 |  | [Project 9 : Exploring Glucose, Heart Rate, and Activity Patterns in Personalized Nutrition](#project-9--exploring-glucose,-heart-rate,-and-activity-patterns-in-personalized-nutrition) | |
 
 
@@ -348,10 +348,13 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
 <!------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### Project 9 : Exploring Glucose, Heart Rate, and Activity Patterns in Personalized Nutrition
-1. The goal of this project is to explore how physiological and lifestyle factors relate to glucose regulation in 10 participants. You will work with:
-  a. CGMacros-00XX.csv: Time-series data per participant including glucose (Libre GL), heart rate (HR), calories burned, and METs.
-  b. bio.csv: Baseline characteristics and lab measurements including BMI, A1c, fasting glucose, insulin, cholesterol, and fingerstick glucose readings.
-The dataset is located in `data\nutrition\` directory.
+
+1. The goal of this project is to explore how physiological and lifestyle factors relate to glucose regulation in 10 participants.
+2. The dataset is located in `data\nutrition\` directory.
+3. You will work with:
+   - CGMacros-00XX.csv: Time-series data per participant including glucose (Libre GL), heart rate (HR), calories burned, and METs.
+    bio.csv: Baseline characteristics and lab measurements including BMI, A1c, fasting glucose, insulin, cholesterol, and fingerstick glucose readings.
+
 
 - `Data Preprocessing and Cleaning:` Write functions to read the csv file. Suggestion : Use the `pandas` library. The dataset may contain missing values, NaN values, or invalid entries. Use suitable imputation techniques for data cleaning and filling missing entries. Understand the association between the datasets.
   
