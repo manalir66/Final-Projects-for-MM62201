@@ -83,9 +83,9 @@ This repository might be updated with new projects and/or changes to existing pr
 4. That's it! `Congratulations!!` You have successfully submitted your final project.
 
 ### Deadline
-The deadline for the final project submission is 27th November 2025, 23:59 IST**.
+The deadline for the final project submission is 28th November 2025, 23:59 IST**.
 
-<!-- ## Project Allocation
+ ## Project Allocation
 |     Students                            | Project                |  Mentor TA    |
 |:---------------------------:|:-----------------------------:|:------------------:|
 
@@ -96,10 +96,7 @@ The deadline for the final project submission is 27th November 2025, 23:59 IST**
 |  | [Project 5 : Plant Disease Analysis Using Leaf Image Data](#project-5--plant-disease-analysis-using-leaf-image-data) |  |
 |  | [Project 6 : PCOS Data Analysis and Visualization](#project-6--PCOS-data-analysis-and-visualization) |  |
 |  | [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization) |  |
-|  | [Project 8: Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-9--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data) |  |-->
-
-
-
+|  | [Project 8: Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-9--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data) |  |
 
 
 ## Projects
@@ -334,25 +331,6 @@ The deadline for the final project submission is 27th November 2025, 23:59 IST**
         5. Use Line plot (BDI over time) or Paired Dot plot (12 vs. 24 weeks)
                
 6. The analysis part is open-ended. You can come up with your own analysis ideas and implement them.
-
-<!-- ### Project 8 : Diabetes Type Classification -glucose monitoring
-
-1. Extract the diabetes data from the compressed file (`diabetes-data.tar.Z`) and load it into a suitable format (e.g., CSV, Pandas DataFrames). You can find the dataset at - https://archive.ics.uci.edu/dataset/34/diabetes
-2. Learn how to work with archived and compressed files, data extraction, and loading datasets.
-3. Understand the dataset structure, variable types, missing values, and basic statistics.
-4. A summary report of data types, distributions, and any missing values, along with a preliminary understanding of the dataset.
-6. The dataset may include clinical features such as:- it contains the distribution for 70 sets of data recorded on diabetes patients (several weeks `to months` worth of glucose, insulin, and lifestyle data per patient + a description of the problem domain).
-7. using this dataset we can use for the  Diabetes Type Classification: For datasets including Type 1 and Type 2 diabetes patients, you could classify patients by
-diabetes type based on their glucose and insulin response patterns.
-8. The project is divided into following parts:
-   - `Data Preprocessing and Cleaning`: Clean and preprocess the data to make it suitable for analysis. This includes handling missing values, outliers, and any
-necessary transformations (e.g., normalizing glucose levels).
-   - `Exploratory Data Analysis (EDA)`: Conduct exploratory data analysis to identify patterns and relationships among features such as glucose, insulin, and lifestyle
-factors.
-   - `Classification Task`: Define blood glucose levels as categorical variables (e.g., low, normal, high) and build a classification model to predict these levels.
-   - `Regression Task`: Predicting Continuous Glucose Levels -- Build a regression model to predict continuous glucose levels based on lifestyle and insulin data.
-   - `Model Evaluation and Tuning`:- Fine-tune the models built (classification, regression, or time-series) and evaluate their performance on a test dataset.
-10. Compile the analysis, results, and insights into a structured report and prepare a presentation. -->
 
 ## Resources
 Main Goal: The overall goal for these projects is to give you an opportunity to explore and study with domain (agriculture/medical) data. 
