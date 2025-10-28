@@ -103,6 +103,22 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
 | Yogesh Singh (25MM60S01), Rick Maity (25MM60003), and Sushobhon Ghosh (25MM60A01) | [Project 10 : Hospital Management Information System (HMIS), specifically for the Outpatient Department |None |
 
 
+## Project Allocation
+|     Students                            | Project                |  Mentor TA    |
+|:---------------------------:|:-----------------------------:|:------------------:|
+|  | [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis) | ----- |
+| Aryan Kumar (25AG61R02), Suyash Gadage (25AG61R03) | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | ---- |
+| None | [Project 3 : Medical Image Visualization and Analysis](#project-3--medical-image-visualization-and-analysis) | ---- |
+| Himanshu (25AG61R15), Raj Shahi (25AG61R10) | [Project 4 : Impact of Soil Quality on Crop Growth Analysis](#project-6--impact-of-soil-quality-on-crop-growth-analysis) | ----- |
+
+| | [Project 5 : Plant Disease Analysis Using Leaf Image Data](#project-7--plant-disease-analysis-using-leaf-image-data) | ---- |
+|  | [Project 8 : PCOS Data Analysis and Visualization](#project-8--PCOS-data-analysis-and-visualization) | Sanchita |
+| 24AG62R05, 24AG62R17 | [Project 9 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-9--mushroom-edibility-classification-using-data-analysis-and-visualization) | Sanchita |
+| 24MM60002, 24MM60011, 24MM60003 | [Project 10 : Diabetes Type Classification](#project-10--diabetes-type-classification) | Anusuiya |
+| 24MM60015, 24MM60010, 24MM60007 | [Project 11: Predicting Maternal Health Risk](#project-11--predicting-maternal-health-risk) | Anusuiya |
+| 24MM91R12, 24MM60012, 24MM60006| [Project 12: DYNAMICS OF REDUCED INDEPENDENCE POLYNOMIALS](#project-12--DYNAMICS-OF-REDUCED-INDEPENDENCE-POLYNOMIALS) | SELF |
+
+
 
 ## Projects
 
