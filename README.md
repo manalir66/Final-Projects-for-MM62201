@@ -90,7 +90,6 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
  ## Project Allocation
 |     Students                            | Project                |  Mentor TA    |
 |:--------------------------------------:|:-----------------------------:|:------------------:|
-
 | None | [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis) | None |
 | Aryan Kumar (25AG61R02), Suyash Gadage (25AG61R03) | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | None |
 | None | [Project 3 : Medical Image Visualization and Analysis](#project-3--medical-image-visualization-and-analysis) | None |
