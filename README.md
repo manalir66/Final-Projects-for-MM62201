@@ -92,7 +92,7 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
 |:--------------------------------------:|:-----------------------------:|:------------------:|
 
 | None | [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis) | None |
-| None | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | None |
+| Aryan Kumar (25AG61R02), Suyash Gadage (25AG61R03) | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | None |
 | None | [Project 3 : Medical Image Visualization and Analysis](#project-3--medical-image-visualization-and-analysis) | None |
 | Himanshu (25AG61R15), Raj Shahi (25AG61R10) | [Project 4 : Impact of Soil Quality on Crop Growth Analysis](#project-4--impact-of-soil-quality-on-crop-growth-analysis) | None |
 | None | [Project 5 : Plant Disease Analysis Using Leaf Image Data](#project-5--plant-disease-analysis-using-leaf-image-data) | None |
@@ -100,6 +100,8 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
 | None | [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization) | None |
 | None | [Project 8 : Predicting Depression Risk and Recovery Using Clinical and Mindfulness Data](#project-8--predicting-depression-risk-and-recovery-using-clinical-and-mindfulness-data) | None |
 | None | [Project 9 : Exploring Glucose, Heart Rate, and Activity Patterns in Personalized Nutrition](#project-9--monitoring-glucose-heart-rate-and-activity-patterns-in-personalized-nutrition) |None |
+| Yogesh Singh (25MM60S01), Rick Maity (25MM60003), and Sushobhon Ghosh (25MM60A01) | [Project 10 : Hospital Management Information System (HMIS), specifically for the Outpatient Department |None |
+
 
 
 ## Projects
