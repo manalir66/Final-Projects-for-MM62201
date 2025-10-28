@@ -94,7 +94,7 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
 |  | [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis) |  |
 |  | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) |  |
 |  | [Project 3 : Medical Image Visualization and Analysis](#project-3--medical-image-visualization-and-analysis) |  |
-|  | [Project 4 : Impact of Soil Quality on Crop Growth Analysis](#project-4--impact-of-soil-quality-on-crop-growth-analysis) |  |
+| Himanshu (25AG61R15), Raj Shahi (25AG61R10) | [Project 4 : Impact of Soil Quality on Crop Growth Analysis](#project-4--impact-of-soil-quality-on-crop-growth-analysis) |  |
 |  | [Project 5 : Plant Disease Analysis Using Leaf Image Data](#project-5--plant-disease-analysis-using-leaf-image-data) |  |
 |  | [Project 6 : PCOS Data Analysis and Visualization](#project-6--PCOS-data-analysis-and-visualization) |  |
 |  | [Project 7 : Mushroom Edibility Classification Using Data Analysis and Visualization](#project-7--mushroom-edibility-classification-using-data-analysis-and-visualization) |  |
