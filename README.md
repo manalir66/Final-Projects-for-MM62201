@@ -92,7 +92,7 @@ The deadline for the final project submission is 28th November 2025, 23:59 IST**
 |:--------------------------------------:|:-----------------------------:|:------------------:|
 | None | [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis) | None |
 | Aryan Kumar (25AG61R02), Suyash Gadage (25AG61R03) | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | None |
-| None | [Project 3 : Medical Image Visualization and Analysis](#project-3--medical-image-visualization-and-analysis) | None |
+| Abishek Nanda 25MM60001, Mohammed Shabeeb 25MM60002, Vipin Sankar 25MM60004 | [Project 3 : Medical Image Visualization and Analysis](#project-3--medical-image-visualization-and-analysis) | None |
 | Himanshu (25AG61R15), Raj Shahi (25AG61R10) | [Project 4 : Impact of Soil Quality on Crop Growth Analysis](#project-4--impact-of-soil-quality-on-crop-growth-analysis) | None |
 | None | [Project 5 : Plant Disease Analysis Using Leaf Image Data](#project-5--plant-disease-analysis-using-leaf-image-data) | None |
 | 25MM91R04, 25MM91R05 (Nabanita Chatterjee, Madhurima Majumdar)  | [Project 6 : PCOS Data Analysis and Visualization](#project-6--PCOS-data-analysis-and-visualization) | None |
